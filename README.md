@@ -1,30 +1,37 @@
-# 💫 About Me:
-🔭 I’m currently working on Flutter and Dart<br>🌱 I’m currently learning Flutter and Dart<br>👯 I’m looking to collaborate on Flutter and Python<br>💬 Ask me about Flutter and Python<br>📫 You can reach me through my social media below<br>⚡ Fun fact: I love solving bugs
+<h1 align="center">Hi 👋, I'm Hossam Fadil</h1>
+<h3 align="center">A Flutter and Python developer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=f-hossam&label=Profile%20views&color=0e75b6&style=flat" alt="f-hossam" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hossam-fadil) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hsm1f) 
+- 💻 I’m currently working on : **Flutter**
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=F-Hossam&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=F-Hossam&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=F-Hossam&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 I’m currently learning : **Adobe premiere pro**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=F-Hossam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+- 👯 I’m looking to collaborate on : **Flutter and Python**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
+- 🤝 I’m looking for help with : **Flutter and Python**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=F-Hossam&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+- 📝 I regularly post tweets on : [https://twitter.com/hsm1f](https://twitter.com/hsm1f)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+- 💬 Ask me about : **Flutter and Python**
 
----
-[![](https://visitcount.itsvg.in/api?id=F-Hossam&icon=5&color=0)](https://visitcount.itsvg.in)
+- 📫 You can reach me on : **My social links below**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- ⚡ Fun fact about me : **I love solving bugs**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/hsm1f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsm1f" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hossam-fadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hossam-fadil" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f-hossam&show_icons=true&locale=en&layout=compact" alt="f-hossam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f-hossam&show_icons=true&locale=en" alt="f-hossam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f-hossam&" alt="f-hossam" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f-hossam" alt="f-hossam" /></a> </p>
