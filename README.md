@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with : **Flutter and Python**
 
-- 📝 I regularly post tweets on : [https://twitter.com/hsm1f](https://twitter.com/hsm1f)
+- 📝 I regularly post tweets on : [https://twitter.com/1hossamdev](https://twitter.com/1hossamdev)
 
 - 💬 Ask me about : **Flutter and Python**
 
