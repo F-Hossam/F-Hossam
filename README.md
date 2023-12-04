@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-hossam&label=Profile%20views&color=0e75b6&style=flat" alt="f-hossam" /> </p>
 
-- 💻 I’m currently working on : **Python**
+- 💻 I’m currently working on : **Web Application**
 
-- 🌱 I’m currently learning : **Web Scraping**
+- 🌱 I’m currently learning : **Flask, Mysql, Html, Css**
 
 - 👯 I’m looking to collaborate on : **Flutter and Python**
 
