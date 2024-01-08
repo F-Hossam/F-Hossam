@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on : **Web Application**
 
-- 🌱 I’m currently learning : **Flask, Mysql, Html, Css**
+- 🌱 I’m currently learning : **Numpy, Pandas, Matplotlib**
 
 - 👯 I’m looking to collaborate on : **Flutter and Python**
 
