@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-hossam&label=Profile%20views&color=0e75b6&style=flat" alt="f-hossam" /> </p>
 
-- 💻 I’m currently working on : **Web Application**
+- 💻 I’m currently working on : **Data Analysis Project**
 
-- 🌱 I’m currently learning : **Numpy, Pandas, Matplotlib**
+- 🌱 I’m currently learning : **Dat Analysis**
 
-- 👯 I’m looking to collaborate on : **Flutter and Python**
+- 👯 I’m looking to collaborate on : **Python**
 
-- 🤝 I’m looking for help with : **Flutter and Python**
+- 🤝 I’m looking for help with : **Python**
 
 - 📝 I regularly post tweets on : [https://twitter.com/1hossamdev](https://twitter.com/1hossamdev)
 
