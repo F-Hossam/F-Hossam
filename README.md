@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on : **Data Analysis Project**
 
-- 🌱 I’m currently learning : **Dat Analysis**
+- 🌱 I’m currently learning : **Data Analysis**
 
 - 👯 I’m looking to collaborate on : **Python**
 
