@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning : **Data Analysis**
 
-- 👯 I’m looking to collaborate on : **Python**
+- 👯 I’m looking to collaborate on : **Python and Java**
 
 - 🤝 I’m looking for help with : **Python**
 
 - 📝 I regularly post tweets on : [https://twitter.com/1hossamdev](https://twitter.com/1hossamdev)
 
-- 💬 Ask me about : **Flutter and Python**
+- 💬 Ask me about : **Flutter and Python and Java**
 
 - 📫 You can reach me on : **My social links below**
 
