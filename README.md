@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-hossam&label=Profile%20views&color=0e75b6&style=flat" alt="f-hossam" /> </p>
 
-- 💻 I’m currently working on : **VacationPlanner Project**
+- 💻 I’m currently working on : **my Portofolio**
 
-- 🌱 I’m currently learning : **Data Analysis and FastApi**
+- 🌱 I’m currently learning : **Data Engineering**
 
-- 👯 I’m looking to collaborate on : **Python and Java**
+- 👯 I’m looking to collaborate on : **Python, Java and Nextjs**
 
-- 🤝 I’m looking for help with : **Python**
+- 🤝 I’m looking for help with : **Python, Java, Nextjs**
 
-- 📝 I regularly post tweets on : [https://twitter.com/1hossamdev](https://twitter.com/1hossamdev)
-
-- 💬 Ask me about : **Flutter and Python and Java**
+- 💬 Ask me about : **Python, Java and Nextjs**
 
 - 📫 You can reach me on : **My social links below**
 
