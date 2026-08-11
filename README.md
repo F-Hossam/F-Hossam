@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-hossam&label=Profile%20views&color=0e75b6&style=flat" alt="f-hossam" /> </p>
 
-- 💻 I’m currently working on : **AURA**
+- 💻 I’m currently working on : **ML/AI inference Platform**
 
 - 🌱 I’m currently learning : **AI Engineering / LLMops**
 
-- 👯 I’m looking to collaborate on : **Python, Java and Nextjs**
+- 👯 I’m looking to collaborate on : **AI Engineering, Data Science**
 
-- 💬 Ask me about : **Python, LLMs, Data Science**
+- 💬 Ask me about : **LLMs, Data Science**
 
 - 📫 You can reach me on : **My social links below**
 
-- ⚡ Fun fact about me : **I love solving bugs**
+- ⚡ Fun fact about me : **I love debugging**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
